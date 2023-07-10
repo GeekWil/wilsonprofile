@@ -1,4 +1,6 @@
-<h1>Hi, I'm Wilson! <br/><a href="https://github.com/GeekWil">Network/Cloud/Cybersecurity</a>, <a href="https://www.linkedin.com/in/wilsonliu0911/">IT Professional</a></h1>
+<h1>Hi, I'm Wilson! 
+<br><a href="https://www.linkedin.com/in/wilsonliu0911/">Network/Cloud/Cybersecurity</a>
+</h1>
 
 <h2>Projects:</h2>
 
